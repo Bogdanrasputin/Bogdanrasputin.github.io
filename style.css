@@ -5,9 +5,10 @@
 
 }
 
-#title {
+#titleBog {
 	text-align: center;
-	float: left;
+	float: right;
+	font-family: 'Major Mono Display', monospace;	
 
 
 }
